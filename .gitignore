@@ -1,0 +1,12 @@
+node_modules
+bower_components
+*.map
+npm-debug.*
+lib-prod.js
+.settings/
+.classpath
+.project
+.jscsrc
+.DS_Store
+gulp-config.json
+bin/
